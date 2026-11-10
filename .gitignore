@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+my_data1.db
+# course template and the presentation deliverables are submitted separately
+Modulo 5/
